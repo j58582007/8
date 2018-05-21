@@ -111,14 +111,14 @@ img, object, embed, video {
 	clear: both;
 	float: left;
 	margin-left: 0;
-	width: 65%;
+	width: 60%;
 	display: block;
 }
 #sidebar {
 	clear: none;
 	float: right;
 	margin-left: 0;
-	width: 30%;
+	width: 35%;
 	display: block;
 }
 #footer {
@@ -165,14 +165,14 @@ img, object, embed, video {
 	clear: both;
 	float: left;
 	margin-left: 0;
-	width: 100%;
+	width: 65%;
 	display: block;
 }
 #sidebar {
-	clear: both;
-	float: left;
+	clear: none;
+	float: right;
 	margin-left: 0;
-	width: 100%;
+	width: 30%;
 	display: block;
 }
 #footer {
